@@ -12,3 +12,4 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 3. 按覺得最像的那一顆鈕存起來
 4. 按清空可以清空之前存過的所有東西
 5. 按存過的網頁旁邊的刪除可以刪掉那一個
+6. 可以重新整理看看之前的還會在~
